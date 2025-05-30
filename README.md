@@ -8,8 +8,22 @@ The project leverages **Microsoft Excel** for data cleaning and transformation, 
 ## Data Sources
 
 The Data is sourced from the Uganda Coffee Development Authority (UCDA), the official body responsible for regulating and promoting Uganda’s coffee industry.Specifically
-this data is extracted from monthly reports (PDF). 
+this data is extracted from monthly reports (PDF). [Download here](https://ugandacoffee.go.ug/index.php/resource-center/reports/monthly-reports)
 
 ## Tools used
+
 - Excel - Data extraction & Cleaning
-- Power BI - Data Analysis & Visualization
+- Power BI - Data Analysis, Reports & Visualization
+
+## Data Cleaning & Preparation.
+
+In this initial preparatory stage, we did the following tasks
+- Extracted data from tables in PDF files using Excel power query
+- Removed errors and nulls.
+- Assigned the right data types (Dates, Texts, whole numbers)
+- Transformed and combined data across different reporting periods
+- Loaded standardized tables to create proper/clean datasets in excel form and stored them in a folder.
+
+## Exploratory Data Analysis
+
+  
