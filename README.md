@@ -17,7 +17,7 @@ this data is extracted from monthly reports (PDF). [Download here](https://ugand
 
 ## Data Cleaning & Preparation.
 
-In this initial preparatory stage, we did the following tasks
+In this initial preparatory stage, we performed the following tasks
 - Extracted data from tables in PDF files using Excel power query
 - Removed errors and nulls.
 - Assigned the right data types (Dates, Texts, whole numbers)
@@ -26,4 +26,8 @@ In this initial preparatory stage, we did the following tasks
 
 ## Exploratory Data Analysis
 
-  
+This EDA Process involved the following:
+- Used Power BI Power query to connect to the datasets folder. This ensured easy appending of datasets for different periods
+- Depulicated the Main Facts table and created dimensions tables (Coffee type, Distinations, Buyers, Exporting companies)
+- Used an alreading existing code stored in word to create the calendar table
+- Created a star schema model and set up relationships  
