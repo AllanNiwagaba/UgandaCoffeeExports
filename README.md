@@ -24,7 +24,7 @@ In this initial preparatory stage, we performed the following tasks
 - Transformed and combined data across different reporting periods
 - Loaded standardized tables to create proper/clean datasets in excel form and stored them in a folder.
 
-### Transformation & Modelling
+### Transformation & Modelling - Power BI
 
 This EDA Process involved the following:
 - Used Power BI Power query to connect to the datasets folder. This ensured easy appending of datasets for different periods
@@ -41,11 +41,22 @@ This phase involved systematically exploring the dataset to uncover patterns, tr
 - How has coffee **export performance evolved over time** (monthly, quarterly, annually)?
 - What is the **compound annual growth rate** or year-over-year (YoY) growth in export volume and revenue?
 - Which **coffee type** (Robusta, Arabica) dominates in terms of volume and revenue contribution?
-- How are **coffee exports distributed across **continents** and **countries**?
+- How are coffee exports distributed across **continents** and **countries**?
 - What are the **top destination countries** for Uganda’s coffee exports?
 - How do **average unit prices** vary across coffee types and years?
 - Which **grades** of coffee (Screen 15, Drugar, Wugar, etc) contribute most to export value and quantity?
 - Who are the **leading exporters** of Uganda's coffee?
 - Which **buyers** consistently purchase Uganda’s coffee in high volumes?
 - Are there any **seasonal patterns** in coffee export volumes, unit price and export revenue?
+
+## The Analysis Process - Calculations & Analytical Logic
+
+To derive meaningful insights from the data,I performed various calculations using DAX formulas Power BI as broken down below:
+
+- **Total Volume**
+```Quantity (60kg Bags) = SUM('Coffee Exports Data'[Qty (60kg bags)])```
+
+- **Coffee Revenue**
+  ```Revenue ($ million) = SUM('Coffee Type'[Value ($)])```
+
 
