@@ -24,10 +24,28 @@ In this initial preparatory stage, we performed the following tasks
 - Transformed and combined data across different reporting periods
 - Loaded standardized tables to create proper/clean datasets in excel form and stored them in a folder.
 
-## Exploratory Data Analysis
+### Transformation & Modelling
 
 This EDA Process involved the following:
 - Used Power BI Power query to connect to the datasets folder. This ensured easy appending of datasets for different periods
 - Depulicated the Main Facts table and created dimensions tables (Coffee type, Distinations, Buyers, Exporting companies)
 - Used an alreading existing code stored in word to create the calendar table
-- Created a star schema model and set up relationships  
+- Created a star schema model and set up relationships 
+
+
+## Exploratory Data Analysis (EDA)
+
+This phase involved systematically exploring the dataset to uncover patterns, trends, and key insights. The analysis was guided by the following core questions:
+
+- What is the **total volume** of coffee exported and **total revenue** generated from 2020 to date?
+- How has coffee **export performance evolved over time** (monthly, quarterly, annually)?
+- What is the **compound annual growth rate** or year-over-year (YoY) growth in export volume and revenue?
+- Which **coffee type** (Robusta, Arabica) dominates in terms of volume and revenue contribution?
+- How are **coffee exports distributed across **continents** and **countries**?
+- What are the **top destination countries** for Uganda’s coffee exports?
+- How do **average unit prices** vary across coffee types and years?
+- Which **grades** of coffee (Screen 15, Drugar, Wugar, etc) contribute most to export value and quantity?
+- Who are the **leading exporters** of Uganda's coffee?
+- Which **buyers** consistently purchase Uganda’s coffee in high volumes?
+- Are there any **seasonal patterns** in coffee export volumes, unit price and export revenue?
+
