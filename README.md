@@ -39,7 +39,7 @@ This phase involved systematically exploring the dataset to uncover patterns, tr
 
 - What is the **total volume** of coffee exported and **total revenue** generated from 2020 to date?
 - How has coffee **export performance evolved over time** (monthly, quarterly, annually)?
-- What is the **compound annual growth rate** or year-over-year (YoY) growth in export volume and revenue?
+- What is the **year-over-year (YoY) growth** in export volume and revenue?
 - Which **coffee type** (Robusta, Arabica) dominates in terms of volume and revenue contribution?
 - How are coffee exports distributed across **continents** and **countries**?
 - What are the **top destination countries** for Uganda’s coffee exports?
@@ -79,6 +79,38 @@ To derive meaningful insights from the data,I performed various calculations usi
 
 - **Average Unit Price**
   ```AvgUnitPrice = AVERAGE('Coffee Type'[Unit Price])```
+  
+- **Previous Year Exports Volume**
+  ```Prev.yrCoffeeQty = CALCULATE('Coffee Type Metrics'[TotalQty(60kg bags)],SAMEPERIODLASTYEAR('Calendar'[Date]))```
+
+- **Previous Year Exports Revenue**
+  ```prev year Revenue = CALCULATE([Revenue($)],PREVIOUSYEAR('Calendar'[Date]))```
+
+- **YoY% Revenue Growth**
+  ```YoY%(Revenue) = DIVIDE(([Value($)]-[PY_Value($)]),[PY_Value($)])```
+
+- **YoY% Exports Volume Growth**
+  ```%YoY(Qty) = DIVIDE([TotalQty(60kg bags)]-[Prev.yrCoffeeQty],[Prev.yrCoffeeQty])```
+
+## Results
+### Export Performace overview
+
+- Uganda exported over 32 million 60kg bags of coffee during the period, generating approximately $5.13 billion in revenue.
+- Robusta accounted for the majority of exports, contributing 85.5% of total volume and ~$4.1 billion in value.
+- Arabica, while lower in volume, had a significantly higher average unit price (≈ $3.95) compared to Robusta (≈ $2.52).
+
+  #### Coffee Grades & Types
+
+  - Among Robusta grades, Screen 15 was the most exported, with over 13 million bags, followed by Screen 12 and Screen 18.
+  - For Arabica, Drugar was the most exported, with 2.0 million bags and $ 413,082,844, followed by Wugar and Bugisu AA
+
+  ### Export Trends
+  - Coffee export volume grew by ~25% year-over-year (YOY), with revenue increasing by over 51%, driven by both higher volumes and improved unit prices in key years.
+  - 2021 marked a peak with over 6.8 million bags of coffee exported with an average monthly of 563.92 bags,indicating strong market demand
+
+  ##### Unit prices
+  - Overall Average Unit price grew from $ 2.17 in 2020 to $ 5.36 in March 2025.
+  - Arabica Coffee rise from $ 2.6 to $ 5.85 while Robusta grew from $ 1.50 to $ 4.67 on average from 2020 to March 2025
   
   
 
