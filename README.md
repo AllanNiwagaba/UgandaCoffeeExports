@@ -59,4 +59,27 @@ To derive meaningful insights from the data,I performed various calculations usi
 - **Coffee Revenue**
   ```Revenue ($ million) = SUM('Coffee Type'[Value ($)])```
 
+- **No. of Export Years**
+  ```No of years = DISTINCTCOUNT('Calendar'[Year])```
+
+- **No. of Export Months**
+  ```Number of Months = DISTINCTCOUNT('Calendar'[YearMonth])```
+
+- **Annual Export Volume**
+  ```AvgAnnualExport = DIVIDE([Coffee Export (Qty)], [No. of years])```
+
+- **Annual Export Revenue**
+  ```Avg Annual Revenue = DIVIDE([Value($)], [No. of years])```
+
+- **Average Monthly Export Volume**
+  ```AvgMonthlyExport = DIVIDE(Quantity (60kg Bags)],DISTINCTCOUNT('Calendar'[YearMonth]))```
+
+- **Average Monthly Revenue**
+  ```AvgMonthlyRevenue = DIVIDE([Revenue($)],DISTINCTCOUNT('Calendar'[YearMonth]))```
+
+- **Average Unit Price**
+  ```AvgUnitPrice = AVERAGE('Coffee Type'[Unit Price])```
+  
+  
+
 
