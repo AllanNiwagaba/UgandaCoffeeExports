@@ -99,18 +99,35 @@ To derive meaningful insights from the data,I performed various calculations usi
 - Robusta accounted for the majority of exports, contributing 85.5% of total volume and ~$4.1 billion in value.
 - Arabica, while lower in volume, had a significantly higher average unit price (≈ $3.95) compared to Robusta (≈ $2.52).
 
-  #### Coffee Grades & Types
+#### Coffee Grades & Types
 
   - Among Robusta grades, Screen 15 was the most exported, with over 13 million bags, followed by Screen 12 and Screen 18.
   - For Arabica, Drugar was the most exported, with 2.0 million bags and $ 413,082,844, followed by Wugar and Bugisu AA
 
-  ### Export Trends
+### Export Trends
+  
   - Coffee export volume grew by ~25% year-over-year (YOY), with revenue increasing by over 51%, driven by both higher volumes and improved unit prices in key years.
   - 2021 marked a peak with over 6.8 million bags of coffee exported with an average monthly of 563.92 bags,indicating strong market demand
 
-  ##### Unit prices
+##### Seasonality & Export Patterns
+
+  - Monthly export volumes showed seasonal fluctuations, with notable peaks during mid-year and year-end months.
+  - Quarterly analysis revealed consistent performance improvements across the same quarters year-over-year
+
+##### Unit prices
+  
   - Overall Average Unit price grew from $ 2.17 in 2020 to $ 5.36 in March 2025.
   - Arabica Coffee rise from $ 2.6 to $ 5.85 while Robusta grew from $ 1.50 to $ 4.67 on average from 2020 to March 2025
+
+## Export Destinations
+  
+  - Europe received the largest share of Uganda’s coffee exports (64% of total volume), followed by Africa and Asia.
+  - Italy(11.2 million bags), German(4.3 million bags) and Sudan(3.5 million bags) were the major destinations of Uganda's coffee
+
+## Exporters & Buyers
+- Top exporting companies included Ugacof (U) Ltd, Olam Uganda Ltd, and Kyagalanyi Coffee Ltd, each shipping over 2 million bags.
+- Top Coffee buyers were Sucafina, Olam International, Ecom Agro Industrialist and Volcafe.
+
   
   
 
