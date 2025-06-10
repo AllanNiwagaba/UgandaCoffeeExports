@@ -3,7 +3,7 @@
 
 This project analyzes **Uganda’s coffee export performance**.The goal is to analyze trends in export **volumes**and **Export revenue** with insights segmented by coffee type. It also explores the **Top** **Coffee destinations**, **Exporting companies** and **Coffee Buyers**.
 
-The project leverages **Microsoft Excel** for data cleaning and transformation, and **Power BI** for building interactive dashboards that enable users to explore export patterns over time.By maintaining and updating this project regularly, it serves as a living tool for monitoring Uganda’s coffee trade performance—useful for stakeholders, analysts, and policy makers.
+The project leverages **Microsoft Excel** for data cleaning and transformation, and **Power BI** for analysis and building interactive dashboards that enable users to explore export patterns over time.By maintaining and updating this project regularly, it serves as a living tool for monitoring Uganda’s coffee trade performance, useful for stakeholders, policy makers and the general public.
 
 ## Data Sources
 
@@ -28,8 +28,8 @@ In this initial preparatory stage, we performed the following tasks
 
 This EDA Process involved the following:
 - Used Power BI Power query to connect to the datasets folder. This ensured easy appending of datasets for different periods
-- Depulicated the Main Facts table and created dimensions tables (Coffee type, Distinations, Buyers, Exporting companies)
-- Used an alreading existing code stored in word to create the calendar table
+- Created dimensions tables (Coffee type, Distinations, Buyers, Exporting companies)
+- Created the calendar table
 - Created a star schema model and set up relationships 
 
 
@@ -38,11 +38,10 @@ This EDA Process involved the following:
 This phase involved systematically exploring the dataset to uncover patterns, trends, and key insights. The analysis was guided by the following core questions:
 
 - What is the **total volume** of coffee exported and **total revenue** generated from 2020 to date?
-- How has coffee **export performance evolved over time** (monthly, quarterly, annually)?
+- What is the Coffee exports trend? (monthly, quarterly, annually)?
 - What is the **year-over-year (YoY) growth** in export volume and revenue?
 - Which **coffee type** (Robusta, Arabica) dominates in terms of volume and revenue contribution?
-- How are coffee exports distributed across **continents** and **countries**?
-- What are the **top destination countries** for Uganda’s coffee exports?
+- What are the **top destinations** for Uganda’s coffee?
 - How do **average unit prices** vary across coffee types and years?
 - Which **grades** of coffee (Screen 15, Drugar, Wugar, etc) contribute most to export value and quantity?
 - Who are the **leading exporters** of Uganda's coffee?
@@ -95,18 +94,18 @@ To derive meaningful insights from the data,I performed various calculations usi
 ## Results
 ### Export Performace overview
 
-- Uganda exported over 32 million 60kg bags of coffee during the period, generating approximately $5.13 billion in revenue.
-- Robusta accounted for the majority of exports, contributing 85.5% of total volume and ~$4.1 billion in value.
-- Arabica, while lower in volume, had a significantly higher average unit price (≈ $3.95) compared to Robusta (≈ $2.52).
+- Uganda has exported over 33 Million 60kg bags of coffee, generating approximately $5,343.61 Million in revenue from 2020 to Apr 2025.
+- Robusta accounted for the majority of coffee export (28 Million bags), contributing 85.53% of total volume and $4,315 Million in revenue.
+- Arabica, while lower in volume, had a significantly higher average unit price ($3.99) compared to Robusta ($2.55).
 
 #### Coffee Grades & Types
 
-  - Among Robusta grades, Screen 15 was the most exported, with over 13 million bags, followed by Screen 12 and Screen 18.
-  - For Arabica, Drugar was the most exported, with 2.0 million bags and $ 413,082,844, followed by Wugar and Bugisu AA
+  - Among Robusta grades, Screen 15 was the most exported, with over 13.23 Million bags, generating $2,087.5 Million in revenue followed by Screen 12 and Screen 18.
+  - For Arabica, Drugar was the most exported, with 2.1 million bags generating $434,682,493 in value, followed by Wugar and Bugisu AA
 
 ### Export Trends
   
-  - Coffee export volume grew by ~25% year-over-year (YOY), with revenue increasing by over 51%, driven by both higher volumes and improved unit prices in key years.
+  - Coffee export volume grew by 25% year-over-year (YOY), with revenue increasing by over 51%, driven by both higher volumes and improved unit prices in key years.
   - 2021 marked a peak with over 6.8 million bags of coffee exported with an average monthly of 563.92 bags,indicating strong market demand
 
 ##### Seasonality & Export Patterns
