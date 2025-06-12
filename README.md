@@ -104,8 +104,16 @@ To derive meaningful insights from the data,I performed various calculations usi
   - For Arabica, Drugar was the most exported, with 2.1 million bags generating $434,682,493 in value, followed by Wugar and Bugisu AA
 
 ### Export Trends
-  
-  - Coffee export volume grew by 25% year-over-year (YOY), with revenue increasing by over 51%, driven by both higher volumes and improved unit prices in key years.
+
+##### Annual exports volume growth
+- 2021 (+23.28%): Strong growth compared to the 2020 base year, likely driven by post-pandemic recovery interventions.
+- 2022 (−16.85%): A sharp decline, signaling possible operational or market challenges that disrupted the momentum from 2021.
+- 2023 (+8.67%): Partial recovery, suggesting some stability returned but not enough to fully rebound from the previous year’s dip.
+- 2024 (+4.01%): Growth continued at a slower pace, indicating a possible plateau and the need to refresh growth strategies.
+
+
+  - Coffee export volume grew by 4.01% in 2024 compared to 
+  - Coffee export volume grew by 25% year-over-year (YOY) in 2024, with revenue increasing by over 51%, driven by both higher volumes and improved unit prices in key years.
   - 2021 marked a peak with over 6.8 million bags of coffee exported with an average monthly of 563.92 bags,indicating strong market demand
 
 ##### Seasonality & Export Patterns
