@@ -97,6 +97,7 @@ To derive meaningful insights from the data,I performed various calculations usi
 - Uganda has exported over 33 Million 60kg bags of coffee, generating approximately $5,343.61 Million in revenue from 2020 to Apr 2025.
 - Robusta accounted for the majority of coffee export (28 Million bags), contributing 85.53% of total volume and $4,315 Million in revenue.
 - Arabica, while lower in volume, had a significantly higher average unit price ($3.99) compared to Robusta ($2.55).
+- Overall, Uganda exported 6.36 million bags of coffee in 2024 compared 5.49 million bags in 2020, an 15.86% increase.
 
 #### Coffee Grades & Types
 
@@ -104,6 +105,12 @@ To derive meaningful insights from the data,I performed various calculations usi
   - For Arabica, Drugar was the most exported, with 2.1 million bags generating $434,682,493 in value, followed by Wugar and Bugisu AA
 
 ### Export Trends
+
+##### Comparing periods (YOY%)
+###### Export Volumes
+- In April 2025, Uganda recorded a 77.59% increase in exports volume compared to April 2024. This indicates strong year-over-year growth, suggesting exports volume performance has significantly improved over the same period last year.
+
+###### Export Revenue.
 
 ##### Annual exports volume growth
 - 2021 (+23.28%): Strong growth compared to the 2020 base year, likely driven by post-pandemic recovery interventions.
