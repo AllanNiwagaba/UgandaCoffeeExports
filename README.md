@@ -130,22 +130,52 @@ To derive meaningful insights from the data,I performed various calculations usi
 
 - 2025 (Revenue +132.06%, Unit Price +48.10%) (partial year): Explosive revenue growth paired with a steep unit price increase suggests an exceptionally strong export performance in early 2025. This trend indicates substantial market gains.
 
+- Overall Average Unit price grew from $ 2.17 in 2020 to $ 5.89 in Apr 2025.
 
 ##### Seasonality & Export Patterns
 
-  - Monthly export volumes showed seasonal fluctuations, with notable peaks during mid-year and year-end months.
-  - Quarterly analysis revealed consistent performance improvements across the same quarters year-over-year
+  - Monthly export volumes showed seasonal fluctuations, with notable peaks during mid-year (July, Aug) and year-end months (Nov, Dec).
+  - Early 2025 showed volume peaks as well in Apr.
 
-##### Unit prices
-  
-  - Overall Average Unit price grew from $ 2.17 in 2020 to $ 5.36 in March 2025.
-  - Arabica Coffee rise from $ 2.6 to $ 5.85 while Robusta grew from $ 1.50 to $ 4.67 on average from 2020 to March 2025
 
 ## Export Destinations
-  
-  - Europe received the largest share of Uganda’s coffee exports (64% of total volume), followed by Africa and Asia.
-  - Italy(11.2 million bags), German(4.3 million bags) and Sudan(3.5 million bags) were the major destinations of Uganda's coffee
 
+  - Europe received the largest share of Uganda’s coffee exports (64.24% of total volume), followed by Africa (18.2%) and Asia (12.59%) of the total export volumes
+
+     #### Europe
+    
+    Europe had imported 21.07 million bags by Apr 2025:
+
+    ##### Top importing countries
+  -  Italy -11.45 million bags, 54.35%
+  -  German - 4.34 million bags, 20.61%
+  -  Belgium - 1.72 million bags, 8.16% and Sudan(3.5 million bags) were the major destinations of Uganda's coffee
+
+     #### Africa
+     Uganda had exported over 5.97 million bags by Apr 2025.
+
+     ##### Top importing countries
+     - Sudan - 3.54 million bags, 59.27%
+     - Morroco - 1.12 million bags, 18.75%
+     - Algeria - 832.92K bags, 13.95%
+
+     #### Asia
+     Asia had by Apr 2025 imported 4.13 million bags
+
+     ##### Top importing countries
+     - India - 2.67 million bags, 64.76%
+     - China - 395.64K bags, 9.58%
+     - Isreal - 287.37K bags, 6.96%
+   
+       #### North Ameria
+       North America had imported 1.57 million bags of coffee by Apr 2025
+
+       ##### Top importing countries
+       - U.S.A - 1.44 million bags, 91.46%
+       - Mexico - 80.24K bags, 5.73%
+       - Canada - 43.15k bags, 2.74&
+       
+ 
 ## Exporters & Buyers
 - Top exporting companies included Ugacof (U) Ltd, Olam Uganda Ltd, and Kyagalanyi Coffee Ltd, each shipping over 2 million bags.
 - Top Coffee buyers were Sucafina, Olam International, Ecom Agro Industrialist and Volcafe.
