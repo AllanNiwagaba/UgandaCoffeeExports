@@ -144,12 +144,12 @@ To derive meaningful insights from the data,I performed various calculations usi
 
      #### Europe
     
-    Europe had imported 21.07 million bags by Apr 2025:
+      Europe had imported 21.07 million bags by Apr 2025:
 
     ##### Top importing countries
-  -  Italy -11.45 million bags, 54.35%
-  -  German - 4.34 million bags, 20.61%
-  -  Belgium - 1.72 million bags, 8.16% and Sudan(3.5 million bags) were the major destinations of Uganda's coffee
+    -  Italy -11.45 million bags, 54.35%
+    -  German - 4.34 million bags, 20.61%
+    -  Belgium - 1.72 million bags, 8.16% and Sudan(3.5 million bags) were the major destinations of Uganda's coffee
 
      #### Africa
      Uganda had exported over 5.97 million bags by Apr 2025.
@@ -173,14 +173,18 @@ To derive meaningful insights from the data,I performed various calculations usi
       ##### Top importing countries
       - U.S.A - 1.44 million bags, 91.46%
       - Mexico - 80.24K bags, 5.73%
-      - Canada - 43.15k bags, 2.74&
-       
+      - Canada - 43.15k bags, 2.74%       
  
 ## Exporters & Buyers
 - Top exporting companies included Ugacof (U) Ltd, Olam Uganda Ltd, and Kyagalanyi Coffee Ltd, each shipping over 2 million bags.
 - Top Coffee buyers were Sucafina, Olam International, Ecom Agro Industrialist and Volcafe.
 
+## Reccomendations
+
 ## Limitations:
+- The data was extracted from pdf reports, and as such could not tell what exactly was comprised in "Others" especially across Buyers
+- i was unable to analyze exports by grade across destinations, exporting companies & buyers because the pdf reports lacked these  variables.
+
 
 
   
