@@ -108,9 +108,9 @@ To derive meaningful insights from the data,I performed various calculations usi
 
 ##### Comparing periods (YOY%)
 ###### Export Volumes
-- In April 2025, Uganda recorded a 77.59% increase in exports volume compared to April 2024. This indicates strong year-over-year growth, suggesting exports volume performance has significantly improved over the same period last year.
 
-###### Export Revenue.
+- By April 2025, Uganda recorded a 77.59% YoY increase in exports volume compared to April 2024. This indicates strong year-over-year growth, suggesting exports volume performance has significantly improved over the same period last year.
+
 
 ##### Annual exports volume growth
 - 2021 (+23.28%): Strong growth compared to the 2020 base year, likely driven by post-pandemic recovery interventions.
@@ -118,10 +118,18 @@ To derive meaningful insights from the data,I performed various calculations usi
 - 2023 (+8.67%): Partial recovery, suggesting some stability returned but not enough to fully rebound from the previous year’s dip.
 - 2024 (+4.01%): Growth continued at a slower pace, indicating a possible plateau and the need to refresh growth strategies.
 
+###### Export Renevnue & Unit %age  price Changes
 
-  - Coffee export volume grew by 4.01% in 2024 compared to 
-  - Coffee export volume grew by 25% year-over-year (YOY) in 2024, with revenue increasing by over 51%, driven by both higher volumes and improved unit prices in key years.
-  - 2021 marked a peak with over 6.8 million bags of coffee exported with an average monthly of 563.92 bags,indicating strong market demand
+- 2021 (Revenue +39.46%, Unit Price +21.29%): Strong revenue growth primarily driven by significant increases in unit prices, likely reflecting favorable global market prices or premium sales.
+
+- 2022 (Revenue +19.54%, Unit Price +33.44%): Revenue grew at a slower pace despite a sharper rise in unit prices, suggesting a decline in volumes sold may have offset the price gains.
+
+- 2023 (Revenue +12.32%, Unit Price −4.12%): Revenue growth continued but slowed down considerably, and was negatively impacted by a drop in unit prices, implying that increased sales volume helped sustain modest growth.
+
+- 2024 (Revenue +60.27%, Unit Price +26.92%): A strong rebound in revenue driven by both volume and price recovery, signaling renewed market demand or export competitiveness.
+
+- 2025 (Revenue +132.06%, Unit Price +48.10%) (partial year): Explosive revenue growth paired with a steep unit price increase suggests an exceptionally strong export performance in early 2025. This trend indicates substantial market gains.
+
 
 ##### Seasonality & Export Patterns
 
