@@ -167,18 +167,21 @@ To derive meaningful insights from the data,I performed various calculations usi
      - China - 395.64K bags, 9.58%
      - Isreal - 287.37K bags, 6.96%
    
-       #### North Ameria
+     #### North America
        North America had imported 1.57 million bags of coffee by Apr 2025
 
-       ##### Top importing countries
-       - U.S.A - 1.44 million bags, 91.46%
-       - Mexico - 80.24K bags, 5.73%
-       - Canada - 43.15k bags, 2.74&
+      ##### Top importing countries
+      - U.S.A - 1.44 million bags, 91.46%
+      - Mexico - 80.24K bags, 5.73%
+      - Canada - 43.15k bags, 2.74&
        
  
 ## Exporters & Buyers
 - Top exporting companies included Ugacof (U) Ltd, Olam Uganda Ltd, and Kyagalanyi Coffee Ltd, each shipping over 2 million bags.
 - Top Coffee buyers were Sucafina, Olam International, Ecom Agro Industrialist and Volcafe.
+
+## Limitations:
+
 
   
   
