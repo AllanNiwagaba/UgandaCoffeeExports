@@ -260,7 +260,7 @@ To derive meaningful insights from the data,I performed various calculations usi
 - How ever, there is a category of “Others” which was not specific, with 4.60 million bags translating to 14.01% of the total export volume.
 
 
-## Reccomendations
+## Recommendations
 
 ###### Diversify Export Markets
 
@@ -270,15 +270,15 @@ To derive meaningful insights from the data,I performed various calculations usi
 
 - Encourage domestic processing and branding to command even better prices internationally.
 
-##### Strengthen Exporter-Buyer Relationships
+###### Strengthen Exporter-Buyer Relationships
 
 - Support exporters in building long-term contracts with top buyers to ensure stable demand.
 
-##### Leverage Trade Agreements
+###### Leverage Trade Agreements
 
 - Utilize or negotiate trade incentives and tariff reductions in untapped regions, especially Asia and North America.
 
-##### Boost Arabica Production
+###### Boost Arabica Production
 
 - Given Arabica’s higher value, investing in quality and productivity could significantly increase export earnings.
 
