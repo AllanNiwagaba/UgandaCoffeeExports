@@ -91,20 +91,62 @@ To derive meaningful insights from the data,I performed various calculations usi
 - **YoY% Exports Volume Growth**
   ```%YoY(Qty) = DIVIDE([TotalQty(60kg bags)]-[Prev.yrCoffeeQty],[Prev.yrCoffeeQty])```
 
-## Results
+## Findings
 ### Export Performace overview
 
-- Uganda has exported over 33 Million 60kg bags of coffee, generating approximately $5,343.61 Million in revenue from 2020 to Apr 2025.
-- Robusta accounted for the majority of coffee export (28 Million bags), contributing 85.53% of total volume and $4,315 Million in revenue.
-- Arabica, while lower in volume, had a significantly higher average unit price ($3.99) compared to Robusta ($2.55).
-- Overall, Uganda exported 6.36 million bags of coffee in 2024 compared 5.49 million bags in 2020, an 15.86% increase.
+- Uganda has exported over 33.08 million 60kg bags of coffee, generating approximately $ 5,343.61 Million in revenue between Jan 2020 and Apr 2025.
 
-#### Coffee Grades & Types
+- On average, Uganda exports 5.47 million bags with an annual revenue of $ 890.60 million selling at an average unit price of $ 3.36.
 
-  - Among Robusta grades, Screen 15 was the most exported, with over 13.23 Million bags, generating $2,087.5 Million in revenue followed by Screen 12 and Screen 18.
-  - For Arabica, Drugar was the most exported, with 2.1 million bags generating $434,682,493 in value, followed by Wugar and Bugisu AA
+- Overall Annual growth, Uganda exported 6.36 million bags of coffee in 2024 compared to 5.49 million bags in 2020, translating to 15.86 % increase between 2020 and 2024.
 
-### Export Trends
+- YoY % growth; by Apr 2025, Exports volume had grown by 27.95% YoY, while revenue had grown by 58.24% YoY and the Unit price by 11.53% YoY increase.
+
+- By continents, Europe received the largest share of Uganda’s coffee exports (64.24% of total volume), followed by Africa (18.2%) and Asia (12.59%) of the total export volumes
+
+- Top countries were Italy (11.5 million bags, 34.92%), Germany (4.24 million bags, 13.24%) and Sudan (3.54 million bags, 10.79%) of the total export volume.
+
+
+## Type of Coffee
+
+- Robusta accounted for most coffee exports (28.05 million bags), contributing 85.53% of total volume and $4,315 Million in revenue.
+
+- Arabica, while lower in volume (4.75 million bags), had a significantly higher average unit price ($3.99) compared to Robusta ($2.55).
+
+#### Robusta
+
+- Screen 15 was the most exported (13.23 million bags translating to 40.33% of the total export volume) and 47.16 % of the total Robusta coffee exports.
+
+- Screen 12; 4.3 million bags, 13.10 % of total export volume and 15.32 % of Robusta exports
+
+- Screen 18; 3.93 million bags, 11.97% of total export volume and 13.99% of Robusta exports
+
+##### Destination:
+
+- Italy ~ 10.43 million bags, 37.18%
+
+- Germany ~~ 3.54 million bags, 12.61%
+
+- Sudan ~~ 3.53 million bags, 12.59%
+
+#### Arabica
+
+- Drugar was the most preferred grade with total export volume 2.05 million bags, 6.26% of the total export volume and 43.22 of Arabica export.
+
+- Wugar; 545K bags, 1.66% of the total export volume and 11.50% of Arabica export.
+
+##### Destination:
+
+- Italy ~~ 1.02 million bags, 21.55%
+
+- U.S.A ~~ 624.29K bags, 19.47%
+
+- Germany ~~ 804.21, 16.94%
+
+- Belgium ~~ 526.11K bags, 11.06%
+
+
+## Export Trends
 
 ##### Comparing periods (YOY%)
 ###### Export Volumes
@@ -112,7 +154,7 @@ To derive meaningful insights from the data,I performed various calculations usi
 - By April 2025, Uganda recorded a 77.59% YoY increase in exports volume compared to April 2024. This indicates strong year-over-year growth, suggesting exports volume performance has significantly improved over the same period last year.
 
 
-##### Annual exports volume growth
+##### Annual exports volume % age changes
 - 2021 (+23.28%): Strong growth compared to the 2020 base year, likely driven by post-pandemic recovery interventions.
 - 2022 (−16.85%): A sharp decline, signaling possible operational or market challenges that disrupted the momentum from 2021.
 - 2023 (+8.67%): Partial recovery, suggesting some stability returned but not enough to fully rebound from the previous year’s dip.
@@ -175,9 +217,20 @@ To derive meaningful insights from the data,I performed various calculations usi
       - Mexico - 80.24K bags, 5.73%
       - Canada - 43.15k bags, 2.74%       
  
-## Exporters & Buyers
-- Top exporting companies included Ugacof (U) Ltd, Olam Uganda Ltd, and Kyagalanyi Coffee Ltd, each shipping over 2 million bags.
-- Top Coffee buyers were Sucafina, Olam International, Ecom Agro Industrialist and Volcafe.
+## Top Exporters:
+- Ugacof (U) Ltd: 4.70 million bags, 14.34%
+- Olam Uganda Ltd: 3.23 million bags, 9.84%
+- Kyagalanyi coffee Ltd: 2.91 million bags, 8.86%
+- Ideal quality Commodities Ltd: 2.86 million bags, 8.72%
+- Louis Dreyfus Company (U) Ltd: 2.28 million bags, 6.96%
+
+## Top Buyers:
+- Sucafina: 4.49 million bags, 13.69%
+- Olam International: 3.54 million bags, 10.79%
+- Ecom Agro Industrialist: 1.94 million bags, 5.91%
+- How ever, there is a category of “Others” which was not specific, with 4.60 million bags translating to 14.01% of the total export volume.
+
+
 
 ## Reccomendations
 
