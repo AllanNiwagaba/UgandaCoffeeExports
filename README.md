@@ -3,7 +3,9 @@
 
 This project analyzes **Uganda’s coffee export performance**.The goal is to analyze trends in export **volumes**and **Export revenue** with insights segmented by coffee type. It also explores the **Top** **Coffee destinations**, **Exporting companies** and **Coffee Buyers**.
 
-The project leverages **Microsoft Excel** for data cleaning and transformation, and **Power BI** for analysis and building interactive dashboards that enable users to explore export patterns over time.By maintaining and updating this project regularly, it serves as a living tool for monitoring Uganda’s coffee trade performance, useful for stakeholders, policy makers and the general public.
+The project leverages **Microsoft Excel** for data cleaning and transformation, and **Power BI** for analysis and building interactive dashboards that enable users to explore export patterns over time.By maintaining and updating this project regularly, it serves as a living tool for monitoring Uganda’s coffee trade performance, useful for stakeholders, policy makers and the general public. 
+
+[View dashboard]("https://app.powerbi.com/view?r=eyJrIjoiOTJkMDM5ZTMtODJmYS00MWIzLWFiODYtY2ViMzdiODRiMzc0IiwidCI6ImY0OTU4NDAzLTgyZGEtNDYxNC1hNjk2LTI3M2VkMWI4ZTU5OSJ9")
 
 ## Data Sources
 
@@ -248,7 +250,6 @@ To derive meaningful insights from the data,I performed various calculations usi
 - Olam International: 3.54 million bags, 10.79%
 - Ecom Agro Industrialist: 1.94 million bags, 5.91%
 - How ever, there is a category of “Others” which was not specific, with 4.60 million bags translating to 14.01% of the total export volume.
-
 
 
 ## Reccomendations
