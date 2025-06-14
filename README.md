@@ -5,7 +5,7 @@ This project analyzes **Uganda’s coffee export performance**.The goal is to an
 
 The project leverages **Microsoft Excel** for data cleaning and transformation, and **Power BI** for analysis and building interactive dashboards that enable users to explore export patterns over time.By maintaining and updating this project regularly, it serves as a living tool for monitoring Uganda’s coffee trade performance, useful for stakeholders, policy makers and the general public. 
 
-[View dashboard]("https://app.powerbi.com/view?r=eyJrIjoiOTJkMDM5ZTMtODJmYS00MWIzLWFiODYtY2ViMzdiODRiMzc0IiwidCI6ImY0OTU4NDAzLTgyZGEtNDYxNC1hNjk2LTI3M2VkMWI4ZTU5OSJ9")
+[View dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTJkMDM5ZTMtODJmYS00MWIzLWFiODYtY2ViMzdiODRiMzc0IiwidCI6ImY0OTU4NDAzLTgyZGEtNDYxNC1hNjk2LTI3M2VkMWI4ZTU5OSJ9)
 
 ## Data Sources
 
