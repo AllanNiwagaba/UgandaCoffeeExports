@@ -113,7 +113,7 @@ To derive meaningful insights from the data,I performed various calculations usi
 
 ## Type of Coffee
 
-- Robusta accounted for most coffee exports (28.05 million bags), contributing 85.53% of total volume and $4,315 Million in revenue.
+- Robusta coffee accounts for over 85% of total exports by volume. (28.05 million bags), contributing 85.53% of total volume and $4,315 Million in revenue.
 
 - Arabica, while lower in volume (4.75 million bags), had a significantly higher average unit price ($3.99) compared to Robusta ($2.55).
 
@@ -158,6 +158,14 @@ To derive meaningful insights from the data,I performed various calculations usi
 ![image](https://github.com/user-attachments/assets/d69b54f3-bdb6-484b-8cb2-f044ceb1483d)
   
 ## Export Trends
+
+ - Export volume and revenue fluctuated year to year
+
+ - Strong growth in 2021, 2023 and 2024.
+ 
+ - Significant declines in 2022
+
+
 ##### Comparing periods (YOY%)
 ###### Export Volumes
 
@@ -201,7 +209,7 @@ To derive meaningful insights from the data,I performed various calculations usi
 
 ## Export Destinations
 
-  - Europe received the largest share of Uganda’s coffee exports (64.24% of total volume), followed by Africa (18.2%) and Asia (12.59%) of the total export volumes
+  - Europe is the largest market (64.24% of total volume), followed by Africa (18.2%) and Asia (12.59%) of the total export volumes
 
      #### Europe
     
