@@ -262,6 +262,26 @@ To derive meaningful insights from the data,I performed various calculations usi
 
 ## Reccomendations
 
+###### Diversify Export Markets
+
+-  over-reliance on Europe by growing exports to emerging markets like Asia, North America, and South America.
+
+###### Promote Value Addition
+
+- Encourage domestic processing and branding to command even better prices internationally.
+
+##### Strengthen Exporter-Buyer Relationships
+
+- Support exporters in building long-term contracts with top buyers to ensure stable demand.
+
+##### Leverage Trade Agreements
+
+- Utilize or negotiate trade incentives and tariff reductions in untapped regions, especially Asia and North America.
+
+##### Boost Arabica Production
+
+- Given Arabica’s higher value, investing in quality and productivity could significantly increase export earnings.
+
 ## Limitations:
 - The data was extracted from pdf reports, and as such could not tell what exactly was comprised in "Others" especially across Buyers
 - I was unable to analyze exports by grade across destinations, exporting companies & buyers because the pdf reports lacked these  variables.
