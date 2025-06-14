@@ -1,16 +1,15 @@
 # Uganda's Coffee Exports Analysis
 ## Project Overview
 
-This project analyzes **Uganda’s coffee export performance**.The goal is to analyze trends in export **volumes**and **Export revenue** with insights segmented by coffee type. It also explores the **Top** **Coffee destinations**, **Exporting companies** and **Coffee Buyers**.
+This project analyzes **Uganda’s coffee export performance**. The goal is to analyze trends in export **volumes** and **Export revenue** with insights segmented by coffee type. It also explores the **Top** **Coffee destinations**, **Exporting companies** and **Coffee Buyers**.
 
-The project leverages **Microsoft Excel** for data cleaning and transformation, and **Power BI** for analysis and building interactive dashboards that enable users to explore export patterns over time.By maintaining and updating this project regularly, it serves as a living tool for monitoring Uganda’s coffee trade performance, useful for stakeholders, policy makers and the general public. 
+The project leverages **Microsoft Excel** for data cleaning and transformation, and **Power BI** for analysis and building interactive dashboards that enable users to explore export patterns over time. By maintaining and updating this project regularly, it serves as a living tool for monitoring Uganda’s coffee trade performance, useful for stakeholders, policy makers and the general public. 
 
 [View dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTJkMDM5ZTMtODJmYS00MWIzLWFiODYtY2ViMzdiODRiMzc0IiwidCI6ImY0OTU4NDAzLTgyZGEtNDYxNC1hNjk2LTI3M2VkMWI4ZTU5OSJ9)
 
 ## Data Sources
 
-The Data is sourced from the Uganda Coffee Development Authority (UCDA), the official body responsible for regulating and promoting Uganda’s coffee industry.Specifically
-this data is extracted from monthly reports (PDF). [Download here](https://ugandacoffee.go.ug/index.php/resource-center/reports/monthly-reports)
+The Data is sourced from the Uganda Coffee Development Authority (UCDA) website. Specifically this data is extracted from monthly reports (PDF). [Download here](https://ugandacoffee.go.ug/index.php/resource-center/reports/monthly-reports)
 
 ## Tools used
 
@@ -52,7 +51,7 @@ This phase involved systematically exploring the dataset to uncover patterns, tr
 
 ## The Analysis Process - Calculations & Analytical Logic
 
-To derive meaningful insights from the data,I performed various calculations using DAX formulas Power BI as broken down below:
+To derive meaningful insights from the data, I performed various calculations using DAX formulas Power BI as broken down below:
 
 - **Total Volume**
 ```Quantity (60kg Bags) = SUM('Coffee Exports Data'[Qty (60kg bags)])```
@@ -81,8 +80,8 @@ To derive meaningful insights from the data,I performed various calculations usi
 - **Average Unit Price**
   ```AvgUnitPrice = AVERAGE('Coffee Type'[Unit Price])```
   
-- **Previous Year Exports Volume**
-  ```Prev.yrCoffeeQty = CALCULATE('Coffee Type Metrics'[TotalQty(60kg bags)],SAMEPERIODLASTYEAR('Calendar'[Date]))```
+- **YoY Year Exports Volume**
+  ```YoY exports = CALCULATE('Coffee Type Metrics'[TotalQty(60kg bags)],SAMEPERIODLASTYEAR('Calendar'[Date]))```
 
 - **Previous Year Exports Revenue**
   ```prev year Revenue = CALCULATE([Revenue($)],PREVIOUSYEAR('Calendar'[Date]))```
