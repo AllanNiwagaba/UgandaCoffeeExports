@@ -98,13 +98,15 @@ To derive meaningful insights from the data,I performed various calculations usi
 
 - On average, Uganda exports 5.47 million bags with an annual revenue of $ 890.60 million selling at an average unit price of $ 3.36.
 
-- Overall Annual growth, Uganda exported 6.36 million bags of coffee in 2024 compared to 5.49 million bags in 2020, translating to 15.86 % increase between 2020 and 2024.
+- Overall Annual growth, Uganda exported 6.36 million bags of coffee in 2024 compared to 5.49 million bags in 2020, translating to 15.86% increase between 2020 and 2024.
 
 - YoY % growth; by Apr 2025, Exports volume had grown by 27.95% YoY, while revenue had grown by 58.24% YoY and the Unit price by 11.53% YoY increase.
 
 - By continents, Europe received the largest share of Uganda’s coffee exports (64.24% of total volume), followed by Africa (18.2%) and Asia (12.59%) of the total export volumes
 
 - Top countries were Italy (11.5 million bags, 34.92%), Germany (4.24 million bags, 13.24%) and Sudan (3.54 million bags, 10.79%) of the total export volume.
+
+![Dashboard](https://github.com/user-attachments/assets/61859765-d37f-43e0-b33a-10bc8a6928c4)
 
 
 ## Type of Coffee
@@ -141,13 +143,19 @@ To derive meaningful insights from the data,I performed various calculations usi
 
 - U.S.A ~~ 624.29K bags, 19.47%
 
-- Germany ~~ 804.21, 16.94%
+- Germany ~~ 804.21K bags, 16.94%
 
 - Belgium ~~ 526.11K bags, 11.06%
 
+## Monthly Averages
 
+- Overall average, Uganda exports 512.51K bags generating an average revenue of $83.49 million at an average unit price of $3.36.
+
+- Average volume of exports has increased from 457.43K bags in 2020 to 610.85k bags in 2025
+
+![image](https://github.com/user-attachments/assets/d69b54f3-bdb6-484b-8cb2-f044ceb1483d)
+  
 ## Export Trends
-
 ##### Comparing periods (YOY%)
 ###### Export Volumes
 
@@ -155,10 +163,13 @@ To derive meaningful insights from the data,I performed various calculations usi
 
 
 ##### Annual exports volume % age changes
+
 - 2021 (+23.28%): Strong growth compared to the 2020 base year, likely driven by post-pandemic recovery interventions.
 - 2022 (−16.85%): A sharp decline, signaling possible operational or market challenges that disrupted the momentum from 2021.
 - 2023 (+8.67%): Partial recovery, suggesting some stability returned but not enough to fully rebound from the previous year’s dip.
 - 2024 (+4.01%): Growth continued at a slower pace, indicating a possible plateau and the need to refresh growth strategies.
+
+![Annual growth changes](https://github.com/user-attachments/assets/ac841009-dee1-486d-9b74-fd9d68892e71)
 
 ###### Export Renevnue & Unit %age  price Changes
 
@@ -174,10 +185,16 @@ To derive meaningful insights from the data,I performed various calculations usi
 
 - Overall Average Unit price grew from $ 2.17 in 2020 to $ 5.89 in Apr 2025.
 
+![image](https://github.com/user-attachments/assets/45647788-3f40-4289-a27d-5e3cbcd72094)
+
+
 ##### Seasonality & Export Patterns
 
   - Monthly export volumes showed seasonal fluctuations, with notable peaks during mid-year (July, Aug) and year-end months (Nov, Dec).
+ 
   - Early 2025 showed volume peaks as well in Apr.
+
+![image](https://github.com/user-attachments/assets/601f52b6-11de-4f74-84f0-1ba6ba681b8c)
 
 
 ## Export Destinations
@@ -189,12 +206,14 @@ To derive meaningful insights from the data,I performed various calculations usi
       Europe had imported 21.07 million bags by Apr 2025:
 
     ##### Top importing countries
+
     -  Italy -11.45 million bags, 54.35%
     -  German - 4.34 million bags, 20.61%
     -  Belgium - 1.72 million bags, 8.16% and Sudan(3.5 million bags) were the major destinations of Uganda's coffee
 
      #### Africa
-     Uganda had exported over 5.97 million bags by Apr 2025.
+
+    Uganda had exported over 5.97 million bags by Apr 2025.
 
      ##### Top importing countries
      - Sudan - 3.54 million bags, 59.27%
@@ -236,7 +255,7 @@ To derive meaningful insights from the data,I performed various calculations usi
 
 ## Limitations:
 - The data was extracted from pdf reports, and as such could not tell what exactly was comprised in "Others" especially across Buyers
-- i was unable to analyze exports by grade across destinations, exporting companies & buyers because the pdf reports lacked these  variables.
+- I was unable to analyze exports by grade across destinations, exporting companies & buyers because the pdf reports lacked these  variables.
 
 
 
