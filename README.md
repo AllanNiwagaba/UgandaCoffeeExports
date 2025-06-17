@@ -263,7 +263,7 @@ To derive meaningful insights from the data, I performed various calculations us
 
 ###### Diversify Export Markets
 
--  over-reliance on Europe by growing exports to emerging markets like Asia, North America, and South America.
+- Reduce over-reliance on Europe by growing exports to emerging markets like Asia, North America, and South America.
 
 ###### Promote Value Addition
 
