@@ -101,9 +101,19 @@ To derive meaningful insights from the data, I performed various calculations us
 
 - Overall Annual growth, Uganda exported 6.36 million bags of coffee in 2024 compared to 5.49 million bags in 2020, translating to 15.86% increase between 2020 and 2024.
 
-- YoY % growth; by Apr 2025, Exports volume had grown by 27.95% YoY, while revenue had grown by 58.24% YoY and the Unit price by 11.53% YoY increase.
+- By Apr 2025, Exports volume had grown by 27.95% YoY, while revenue had grown by 58.24% YoY and the Unit price by 11.53% YoY increase.
 
-- By continents, Europe received the largest share of Uganda’s coffee exports (64.24% of total volume), followed by Africa (18.2%) and Asia (12.59%) of the total export volumes
+- Uganda exported 6.36 million bags in 2024, a 4.01% increase from 2023 and earned $1,547.14 million in revenue, a 60.27% increase from 2023.
+
+- Uganda exported 6.11 million bags in 2023, an 8.67% increase from 2022 and earned $965.33 million in revenue, a 12.32% increase from 2022.
+
+- Uganda exported 5.63 million bags in 2022, a 16.85% decrease from 2021 and earned $859.47 million in revenue, a 19.54 % increase from 2021
+
+- Uganda exported 6.77 million bags in 2021, a 23.28% increase from 2020 and earned $ 718.96 million in revenue, a 39.46% increase from 2020.
+
+- In 2020, Uganda exported 5.49 million bags earning $515.53 million in revenue.
+
+- By destination, Europe received the largest share of Uganda’s coffee exports (64.24% of total volume), followed by Africa (18.2%) and Asia (12.59%) of the total export volumes
 
 - Top countries were Italy (11.5 million bags, 34.92%), Germany (4.24 million bags, 13.24%) and Sudan (3.54 million bags, 10.79%) of the total export volume.
 
