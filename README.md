@@ -97,7 +97,7 @@ To derive meaningful insights from the data, I performed various calculations us
 
 - Uganda has exported over 33.08 million 60kg bags of coffee, generating $ 5,343.61 Million in revenue between Jan 2020 and Apr 2025.
 
-- On average, Uganda exports 5.47 million bags with an annual revenue of $ 890.60 million selling at an average unit price of $ 3.36.
+- On average, Uganda exports 6.07 million bags with an annual revenue of $ 921.29 million selling at an average unit price of $ 3.36.
 
 - Overall Annual growth, Uganda exported 6.36 million bags of coffee in 2024 compared to 5.49 million bags in 2020, translating to 15.86% increase between 2020 and 2024.
 
